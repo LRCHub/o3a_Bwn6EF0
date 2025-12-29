@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "世界は恋に落ちている（from CHiCO with HoneyWorks 再始動！- Premium Studio Live –）／ CHiCO with HoneyWorks",
+  "base_artist": "CHiCO",
+  "createdAt": "2025-12-29T03:31:23.237661Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界は恋に落ちている - From THE FIRST TAKE",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_世界は恋に落ちている_-_From_THE_FIRST_TAKE_CHiCO_with_HoneyWorks.txt"
+    }
+  ]
+}
